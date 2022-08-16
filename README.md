@@ -1,4 +1,4 @@
-# Inteligencia-Artificial-I-2019
+# Inteligencia-Artificial-I-2020
 
 Aquí se encuentra el [trabajo final]( https://github.com/agusc4/Inteligencia-Artificial-I-2019/blob/main/Informe_final.pdf) presentado en la catedra de Inteligencia artificial I. 
 
